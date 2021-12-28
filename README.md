@@ -12,6 +12,7 @@ For training the model, we used the Flickr8K dataset. It is composed of 8000 dif
 
 ## Dataset
 Each image in the Flickr8k dataset is associated with five different descriptions that describe the entities and events shown in the image. The dataset captures some of the linguistic variability that can be used to describe the same image by connecting each image with different, independently produced words. 
+
 ![image](https://user-images.githubusercontent.com/81853079/147538890-07307d24-e00f-4921-9757-6b68f874d74b.png)
 
 ## Problem Approach
@@ -24,8 +25,11 @@ To encode our text sequence, we mapped every word of the vocabulary with a uniqu
 
 ## Results
 After training the model for 20 epochs, we had a training loss of 2.38, as shown in Fig. 6. For testing the model, we used some images from both the training set and testing set.
+
 ![image](https://user-images.githubusercontent.com/81853079/147538465-25a8a07e-b782-4c3c-9577-8104d8eab639.png)
+
 ![image](https://user-images.githubusercontent.com/81853079/147538473-590d4d30-9c53-4a94-9449-4b59c77410a3.png)
+
 ![image](https://user-images.githubusercontent.com/81853079/147538477-8ed350f3-42f3-4ffa-9498-8c161fab2d30.png)
 
 ## More Information
