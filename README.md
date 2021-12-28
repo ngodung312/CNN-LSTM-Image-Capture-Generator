@@ -34,4 +34,4 @@ After training the model for 20 epochs, we had a training loss of 2.38, as shown
 
 ## More Information
 We used Jupyter Notebook & Google Colab to implement this project. If you want to know more about our project, you can see our source code and report here:
-
+https://drive.google.com/drive/folders/1LqRFo_B7OftkX5awgvpVuwLrVpzlt77W?usp=sharing
